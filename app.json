@@ -1,6 +1,6 @@
 {
     "name": "Telegram Video Watermark Adder Bot",
-    "description": "A Telegram Video Watermark Adder Bot in Pyrogram by @AbirHasan2005",
+    "description": "A Telegram Video Watermark Adder Bot in Pyrogram by @NEETxNOAH",
     "keywords": [
         "telegram",
         "files",
@@ -8,8 +8,8 @@
         "bot"
     ],
     "repository": "https://github.com/AbirHasan2005/Watermark-Bot",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://t.me/Discovery_Updates",
+    "website": "https://telegram.dog/NEETxNOAH",
+    "success_url": "https://t.me/aboutNEETxNOAH",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
